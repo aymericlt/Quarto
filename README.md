@@ -1,6 +1,6 @@
 # Quarto
 
-Création du jeu de Quarto en C++ avec la bibliothèque graphique
+Création du jeu de Quarto en C++ avec la bibliothèque graphique SDL2
 
 Vidéo présentation du jeu :
 ![](QuartoDemo.gif)
